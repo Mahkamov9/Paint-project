@@ -1,4 +1,4 @@
-dfdd cddddcfvar arr_touches = [];
+ggdfdd cddddcfvar arr_touches = [];
 var canvas;
 var ctx;
 var down = false; //mouse is pressed
